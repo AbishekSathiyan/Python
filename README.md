@@ -1,2 +1,2 @@
 # Python
-Learn Programming
+Learn Programming from the Scratch using Python Programming Language
