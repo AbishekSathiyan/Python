@@ -1,5 +1,5 @@
 # Input and Ouput Functions
-# Get Input From the User
+# Get Input From the User and Print 
 
 groom=input("Groom : Enter Your Name: ")
 bride=input("Bride : Enter Your Name: ")
