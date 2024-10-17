@@ -9,7 +9,7 @@ Three inputs:
 
 **Output:**  
 Perform the operation `a op b` and print the result. Handle division by zero by printing `"Error: Division by zero"`.  and Check Valid Operator
-or '"Error: Invalid Operato"' """
+or '"Error: Invalid Operator"' """
 
 print("Simple Calculator")
 
