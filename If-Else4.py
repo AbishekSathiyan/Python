@@ -1,4 +1,4 @@
-""" 10. **Age Category**
+""" 10. **Age Category using If-Else**
 **Description:**  
 Categorize a person's age group.
 **Categories:**  
@@ -11,7 +11,6 @@ An integer `age`.
 **Output:**  
 Print the corresponding age category. If the age is negative, print `"Invalid age"`.
  """
-
 
 print("Divide Age Category")
 age=int(input("Enter Your Age: "))
